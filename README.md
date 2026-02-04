@@ -1,7 +1,13 @@
 [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Ernietsai/Python_Elective_Courses_114)
+[![NotebookLM](https://img.shields.io/badge/AI-NotebookLM--Knowledge--Base-blue.svg)](https://notebooklm.google.com/notebook/0b39ce89-808d-4d81-b7a9-1708c49e2faf)
 
 # MNIST Handwritten Digit Recognition & Deployment
 這是我在高二「Python 入門多元選修」課程中的核心專案。本專案從基礎數據處理出發，結合深度學習模型開發，並最終實現網頁端即時辨識部署。
+
+## 🤖 NotebookLM 專案導覽
+> **歡迎來到我的 AI 知識庫！**
+> 我利用 Google NotebookLM 整合了本專案的部分技術文件、開發筆記與參考資料。您可以透過下方的連結進入互動式介面，快速檢索本專案的技術細節，或由 AI 為您摘要複雜的模型架構。這是我探索「AI 驅動學習」的一環，旨在提升知識內化與開發效率。
+> 🔗 [點此進入 NotebookLM 專案導覽](https://notebooklm.google.com/notebook/0b39ce89-808d-4d81-b7a9-1708c49e2faf)
 
 ## 🚀 專案亮點
 * **APCS 實作思維應用**：運用 APCS 三級所累積的邏輯能力，自主解決複雜資料結構 (Dictionary) 的解析問題。
