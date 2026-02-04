@@ -1,7 +1,7 @@
+[![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Ernietsai/Python_Elective_Courses_114)
+
 # MNIST Handwritten Digit Recognition & Deployment
 這是我在高二「Python 入門多元選修」課程中的核心專案。本專案從基礎數據處理出發，結合深度學習模型開發，並最終實現網頁端即時辨識部署。
-
-[![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Ernietsai/Python_Elective_Courses_114)
 
 ## 🚀 專案亮點
 * **APCS 實作思維應用**：運用 APCS 三級所累積的邏輯能力，自主解決複雜資料結構 (Dictionary) 的解析問題。
