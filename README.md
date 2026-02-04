@@ -31,4 +31,3 @@
 > **歡迎來到我的 AI 知識庫！**
 > 我利用 Google NotebookLM 整合了本專案的部分技術文件、開發筆記與參考資料。您可以透過下方的連結進入互動式介面，快速檢索本專案的技術細節，或由 AI 為您摘要複雜的模型架構。這是我探索「AI 驅動學習」的一環，旨在提升知識內化與開發效率。
 > 🔗 [點此進入 NotebookLM 專案導覽](https://notebooklm.google.com/notebook/0b39ce89-808d-4d81-b7a9-1708c49e2faf)
-AI-Assisted Learning: > I used Google NotebookLM to organize project documentation and synthesize deep learning concepts, ensuring a more structured development process.
