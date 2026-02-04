@@ -25,3 +25,5 @@
 原本 AI 建議代碼：`data['background']` (僅含背景資訊)
 修正後代碼：`data['layers']` (包含實際手寫筆跡數據)
 *這項修正使得網頁 App 的辨識率從錯誤回傳轉變為 99% 精準辨識。*
+
+AI-Assisted Learning: > I used Google NotebookLM to organize project documentation and synthesize deep learning concepts, ensuring a more structured development process.
