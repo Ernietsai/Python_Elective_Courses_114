@@ -1,5 +1,5 @@
 [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Ernietsai/Python_Elective_Courses_114)
-[![NotebookLM](https://img.shields.io/badge/AI-NotebookLM--Knowledge--Base-blue.svg)](https://notebooklm.google.com/notebook/0b39ce89-808d-4d81-b7a9-1708c49e2faf)
+[![NotebookLM](https://img.shields.io/badge/AI-NotebookLM-blue.svg)](https://notebooklm.google.com/notebook/0b39ce89-808d-4d81-b7a9-1708c49e2faf)
 
 # MNIST Handwritten Digit Recognition & Deployment
 這是我在高二「Python 入門多元選修」課程中的核心專案。本專案從基礎數據處理出發，結合深度學習模型開發，並最終實現網頁端即時辨識部署。
