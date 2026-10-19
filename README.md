@@ -2,11 +2,11 @@
 [![NotebookLM](https://img.shields.io/badge/AI-NotebookLM-blue.svg)](https://notebooklm.google.com/notebook/0b39ce89-808d-4d81-b7a9-1708c49e2faf)
 
 # MNIST Handwritten Digit Recognition & Deployment
-在高二「Python 入門多元選修」課程中製作的專案。本專案從基礎數據處理出發，結合深度學習模型開發，並最終實現網頁端即時辨識部署。
+「Python 入門多元選修」課程中製作的專案。本專案從基礎數據處理出發，結合深度學習模型開發，並最終實現網頁端即時辨識部署。
 
 ## 專案亮點
 * **APCS 實作思維應用**：運用 APCS 四級所累積的邏輯能力，自主解決複雜資料結構 (Dictionary) 的解析問題。
-* **人機協作除錯**：在 Gradio 部署過程中，發現並修正了 AI 工具 (Gemini) 擷取錯誤 Key 值 (`background` vs `layers`) 的邏輯偏誤。
+* **人機協作除錯**：在 Gradio 部署過程中，發現並修正 AI 工具 (Google Gemini) 擷取錯誤 Key 值 (`background` vs `layers`) 的邏輯偏誤。
 * **自動化機器學習 (AutoML)**：導入 AutoKeras 進行超參數搜尋，將準確率優化至 99%。
 
 ## 使用技術
@@ -23,8 +23,8 @@
 
 ## 關鍵除錯紀錄 (Debug Log)
 在 Gradio `Sketchpad` 模式下，回傳資料格式為 `dict`。
-原本 AI 建議代碼：`data['background']` (僅含背景資訊)
-修正後代碼：`data['layers']` (包含實際手寫筆跡數據)
+原本 AI 建議程式：`data['background']` (僅含背景資訊)
+修正後程式：`data['layers']` (包含實際手寫筆跡數據)
 *此修正使網頁 App 辨識率由錯誤回傳變為 99% 的辨識正確率。*
 
 ## NotebookLM 專案導覽
